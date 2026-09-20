@@ -16,3 +16,18 @@
 
 ## Стек
 Python, Pandas, Matplotlib, Seaborn, Scikit-learn, Git, Catboost, Postgresql, Jupyter Notebook.
+
+
+## Как запустить?
+1. Склонируйте репозиторий:
+   `git clone https://github.com/Romallorus/ml_portfolio.git`
+2. Создайте виртуальное окружение:
+   `python -m venv venv`
+3. Активируйте его:
+   - Windows: `venv\Scripts\activate`
+   - Mac/Linux: `source venv/bin/activate`
+4. Установите зависимости:
+   `pip install -r requirements.txt`
+5. Запустите Jupyter:
+   `jupyter notebook`
+6. Откройте любой ноутбук и выполните `Kernel -> Restart & Run All`.
