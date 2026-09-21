@@ -9,6 +9,7 @@
 - `05_Decision_Tree` — Деревья решений
 - `06_Random_Forest` — Случайный лес
 - `07_Adaboost` — Адаптивный бустинг
+- `08_Pandas_Practice` — практика Pandas на датасете Tips (groupby, merge, визуализация)
 
 ## Ключевые проекты
 - **German_Credit_Data.ipynb** — анализ кредитного скоринга.
